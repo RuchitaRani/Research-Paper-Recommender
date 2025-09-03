@@ -202,17 +202,6 @@ The system uses the ArXiv research papers dataset from Kaggle:
 - `matplotlib>=3.7.0` - Plotting training curves
 - `kagglehub>=0.2.0` - Dataset downloading
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature-name`
-3. Make changes and test thoroughly
-4. Submit pull request with detailed description
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🔗 References
 
 - [ArXiv Dataset](https://www.kaggle.com/datasets/spsayakpaul/arxiv-data-research-papers)
@@ -220,10 +209,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TensorFlow](https://www.tensorflow.org/)
 - [Streamlit](https://streamlit.io/)
 
-## 📧 Support
-
-For questions, issues, or contributions, please open an issue in the project repository or contact the development team.
-
----
-
-**Built with ❤️ for the research community**
